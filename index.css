@@ -47,6 +47,10 @@ button {
     border-radius: 5px;
 }
 
+button:hover {
+    color: black;
+}
+
 #app-body {
     margin: 0 auto 0 auto;
     padding: 250px 0 250px 0;
